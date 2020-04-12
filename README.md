@@ -1,3 +1,0 @@
-# IvanSnek personal site
-
-## More to come...
