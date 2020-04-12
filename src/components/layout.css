@@ -5,6 +5,7 @@ html {
 }
 body {
   margin: 0;
+  background-color: #15202B;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -619,4 +620,16 @@ pre tt:after {
   html {
     font-size: 100%;
   }
+}
+
+.info-container {
+  color: #fff;
+  font-family: "Roboto Mono";
+  margin: 0 auto;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 300px;
+  text-align: center;
 }
